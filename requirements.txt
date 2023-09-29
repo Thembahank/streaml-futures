@@ -31,3 +31,4 @@ Wand==0.6.11
 wheel==0.40.0
 streamlit==1.23.1
 black==23.3.0
+XlsxWriter
